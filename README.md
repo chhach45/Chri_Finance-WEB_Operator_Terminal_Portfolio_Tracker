@@ -65,7 +65,4 @@ flask --app app.py run --debug
 Bash
 submit50 cs50/problems/2026/x/project
 
-### Final Steps:
-1. Save this text inside your file named **`README.md`**.
-2. Replace `<URL HERE>` on line 3 with the link to your unlisted 3-minute YouTube screencast video.
-3. Open your terminal and execute `submit50 cs50/problems/2026/x/project` to submit you
+
