@@ -60,9 +60,5 @@ Integrating Telegram alerts into the main web request cycle would have drastical
 Bash
 flask --app app.py run --debug
 
-3. Submit the assignment through the official CS50 command utility line:
-
-Bash
-submit50 cs50/problems/2026/x/project
 
 
