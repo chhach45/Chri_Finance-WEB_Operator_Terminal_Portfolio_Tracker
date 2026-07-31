@@ -1,4 +1,4 @@
-# ChriFinance - WEB Operator Terminal & Portfolio Tracker
+# Chri Finance Manager Web version - WEB Operator Terminal & Portfolio Tracker
 
 #### Video Demo: https://youtu.be/TX_H2Wz6_Dg
 #### Description:
