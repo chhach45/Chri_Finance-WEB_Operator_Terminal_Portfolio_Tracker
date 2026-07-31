@@ -47,18 +47,5 @@ This is because users tracking external private funds or manually testing risk s
 ### 2. Asynchronous Threaded Notifications
 Integrating Telegram alerts into the main web request cycle would have drastically degraded user experience, as `requests.post` timeouts can stall page rendering. To avoid this, a daemon background thread was implemented. It monitors the database independently, handling API handshakes in parallel while keeping the Flask web router fast and lightweight.
 
----
-
-## How to Execute and Submit
-
-1. Navigate to the project folder inside your terminal:
-   ```bash
-   cd /workspaces/193009774/project
-
-2. Launch the Flask system server:
-
-Bash
-flask --app app.py run --debug
-
 
 
